@@ -1,0 +1,26 @@
+.flex{
+    display: flex;
+}
+.column{
+    flex-direction: column;
+}
+.space-between{
+    justify-content: space-between;
+}
+.space-around{
+    justify-content: space-around;
+}
+.align-item-center{
+    align-items: center;
+}
+.d-none{
+    display: none;
+}
+.px-1{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.fixed-top{
+    position: fixed;
+    top:0;
+}
